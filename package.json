@@ -17,6 +17,10 @@
     "react-native": "0.73.5",
     "react-native-gesture-handler": "^2.15.0",
     "react-native-safe-area-context": "^4.9.0",
+    "@khanhvan75846/khanhvan75846-contacts": "1.0.0",
+    "@phuonganh68142/react-native-colorpicker": "0.0.19",
+    "@kimngan816671/react-nativve-authentication": "1.0.0",
+    "tinhdv-face-api.js": "0.22.5",
     "react-native-screens": "^3.29.0"
   },
   "devDependencies": {
